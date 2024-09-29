@@ -42,8 +42,14 @@ Step into the chaotic world of **Bloodstained Doofestien**, a fast-paced, first-
 
 ## 📸 **Screenshots**  
 
-### 1️⃣ Gameplay Action  
-![Gameplay](./screenshots/gameplay.png)  
+### 1️⃣ Spawn Point  
+![Gameplay](./screenshots/spawn_point.png)  
+### 2️⃣ Map
+![Gameplay](./screenshots/map.png)  
+### 3️⃣ Enemy
+![Gameplay](./screenshots/enemy.png)  
+### 4️⃣ Losing Screen
+![Gameplay](./screenshots/losing_screen.png)  
 
 ## 🕹️ **Installation**  
 1. Clone the repository:  
