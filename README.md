@@ -38,7 +38,7 @@ Step into the chaotic world of **Bloodstained Doofestien**, a fast-paced, first-
 
 ## 📜 **Credits**  
 - **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH), [@Suyog_Sable](https://github.com/Suyog_Sable)  
-- **Special Thanks**: The community for their invaluable feedback and support! 🙌
+- **Special Thanks**: To all the mentors and community for their support! 🎉
 
 ## 📸 **Screenshots**  
 
@@ -49,3 +49,8 @@ Step into the chaotic world of **Bloodstained Doofestien**, a fast-paced, first-
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Interloopers/Bloodstained-Doofestien.git
+
+2. Run the main file:
+   ```bash
+   python main.py
+
